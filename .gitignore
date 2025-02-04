@@ -3,6 +3,7 @@
 #launch.json folder
 .vscode/
 .env
+mini-rag
 #Cache folder
 .alcache/
 #Symbols folder
