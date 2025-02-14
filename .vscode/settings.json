@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "extention"
+    ],
+    "python.analysis.extraPaths": [
+        "./src/routes"
     ]
 }
