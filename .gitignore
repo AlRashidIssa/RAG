@@ -1,8 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+__pycache__
 *.py[cod]
 *$py.class
-
+*.pyc
 # Virtual environment
 venv/
 env/
@@ -44,3 +45,4 @@ dist/
 # Ignore any kind of cache
 __pypackages__/
 pip-wheel-metadata/
+src/routes/__pycache__/data.cpython-312.pyc
