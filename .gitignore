@@ -6,7 +6,7 @@ __pycache__/
 # Virtual environment
 venv/
 env/
-mini-rag/ environment
+mini-rag
 *.env
 
 # Jupyter Notebook checkpoints
