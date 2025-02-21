@@ -63,7 +63,4 @@ class ChunkModel(BaseDataModel):
         })
 
         return result.deleted_count
-    
-    
 
-    
