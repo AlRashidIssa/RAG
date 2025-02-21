@@ -8,8 +8,9 @@ from fastapi import (
     Depends, 
     UploadFile, 
     status, 
-    Request
+    Request 
 )
+
 from fastapi.responses import JSONResponse
 
 from helpers.config import get_settings, Settings
